@@ -1,4 +1,19 @@
 h1 {
     font-family: 'Roboto Mono', monospace;
     font-weight: bold;
+    padding-left: 20px;
+}
+
+h2 {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: lighter;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+p {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 30px;
+    padding-top: -10px;
+    padding-left: 30px;
 }
